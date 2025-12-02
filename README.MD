@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: [https://github.com/ArcaneZack/Focus-Applicaiton](https://github.com/ArcaneZack/Focus-Applicaiton)
+Project Link: [https://github.com/ArcaneZack/Focus-Applicaiton](https://github.com/ArcaneZack/Study-Flow)
 
 ---
 
